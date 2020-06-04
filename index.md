@@ -2,7 +2,7 @@
 
 <head>
 
-<title>Obi Wan Kenobi</title>
+<title>Obi Stop Kenobi</title>
 
 <link rel="stylesheet" href="style.css">
 
